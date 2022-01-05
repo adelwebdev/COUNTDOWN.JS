@@ -1,0 +1,19 @@
+
+
+/*# sourceMappingURL=style.css.map */
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+h3{
+    font-size: 2rem !important;
+}
+.container{
+    width: 160px !important;
+}
+.form-group{
+    display: flex;
+}
+#countdown{
+    font-size: 13rem;
+}
